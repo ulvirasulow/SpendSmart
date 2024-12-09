@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SpendSmart",
+    "\\SpendSmart\\Controllers",
+    "\\SpendSmart\\Models",
+    "\\SpendSmart\\Views",
+    "\\SpendSmart\\Views\\Home"
+  ],
+  "SelectedNode": "\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+  "PreviewInSolutionExplorer": false
+}
